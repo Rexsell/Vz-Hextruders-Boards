@@ -1,0 +1,12 @@
+G:\Computer Data\Desktop\KiKit Examples\Board 1\panel
+
+kikit panelize ^
+    --layout "grid; rows: 1; cols: 1" ^
+    --tabs annotation ^
+    --cuts "vcuts; clearance: 1.5mm; layer: User.1" ^
+    --framing "frame; width: 10mm; space: 3mm" ^
+    --tooling "4hole; hoffset: 2.5mm; voffset: 2.5mm; size: 1.5mm" ^
+    --fiducials "4fid; hoffset: 5mm; voffset: 2.5mm; coppersize: 2mm; opening: 1mm;" ^
+    --text "simple; text: VzHextrudortPlusCan panel; anchor: mt; voffset: 5mm; hjustify: center; vjustify: center;" ^
+    --post "millradius: 1.5mm" ^
+    VzHextrudortPlusCan.kicad_pcb panel/panel.kicad_pcb
