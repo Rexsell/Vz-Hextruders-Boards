@@ -14,14 +14,16 @@ Also, use proper hardware:
 ## [VzHextrudortLow](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortLow "VzHextrudortLow") and [VzHextrudortPlus](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlus "VzHextrudortPlus")
 
 They are simple commutation boards, they require Molex Microfit 2x10 as an input. Just direct connection, simple yet useful.
-![[Hextrudort-Low commutation board.png]]
-![[Hextrudort-Plus commutation board.png]]
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/792b913e-394b-48d5-8de1-c8af5d966b4b" height="400" alt="Vz-Hextrudort-Low" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/4129962e-6712-486f-8dac-06df4a653fa8" height="400" alt="Vz-Hextrudort-Plus" style="vertical-align: middle;"/>
+</p>
+
 ## [VzHextrudortPlusCan](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlusCan "VzHextrudortPlusCan") and [VzHextrudortPlusUSB](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlusUSB "VzHextrudortPlusUSB")
 These are already CAN and USB boards respectively. USB version has several additional USB connectors for Beacon/Cartographer sensors and other devices. CAN board has only one CAN connector for external devices.
 
 First of all, they are simpled version of toolboards. They were made as two-layer, singlesided PCBs in order to reduce cost and make them assemblable at home.
 Secondly, CAN version I ordered and assembled two times, second one I corrected several mistakes. 
-![[Hextruder Photo.png]]
 
 Features:
 - Onboard NTC sensor
@@ -34,6 +36,13 @@ Features:
 - Molex Microfit 3.0 for heater
 - PFET protection from reversed polarity
 - 2 Fans connectors
+  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7a57548d-66ff-4aa1-90c8-6e8413b646d8" alt="Hextruder Photo" width="500" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/cc819ef6-a742-48f7-9213-e6f118a29121" alt="Hextruder Photo 2" width="500" style="vertical-align: middle;" />
+
+</p>
+
 
 ## WARNING!!!
 
@@ -42,4 +51,8 @@ Features:
 ## [VzLowCan-Pro](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzLowCan-Pro "VzLowCan-Pro")
 
 It shares the same features (and issues) as the [VzHextrudortPlusUSB](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlusUSB "VzHextrudortPlusUSB"). However, this version is adapted for the -Low model and includes several additional features, such as an extended configuration for the MAX31865 and a connector for a probe like the BL-Touch. It also has a jumper for fan voltage selection. The design is not yet finalized, but I believe more experienced engineers will be able to complete it.
-![[VzLowCan-Pro.png]]
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f53edd93-80fe-44dc-9d02-0f25a97b32ca" alt="VzLowCan-Pro" height="500" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/7ce4ce80-05bd-4bcb-b3b5-514c4eebb886" alt="VzLowCan-Pro SolidWorks" height="500" style="vertical-align: middle;" />
+
+</p>
