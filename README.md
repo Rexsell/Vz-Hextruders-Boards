@@ -3,12 +3,13 @@ Currently, there are no fully suitable toolboards for VzHextruders, as existing 
 
 # Prerequisites
 
-Before installment, make sure you have suitable [X-Endstop mount](https://www.printables.com/model/1297201-x-endstop-mount)
-Also, use proper hardware:
+Before installation, ensure you have a compatible [X-Endstop mount](https://www.printables.com/model/1297201-x-endstop-mount)
+Also, use the correct hardware:
 - M3x25 screw (for both extruders)
 - M3x6 screw (Hextrudort-Low)
 - M3x16 screw (Hextrudort-Plus)
-- M3 standoffs (Equals for your motor length. You may also need 0.5 spacer for LDO motors)
+- M3 standoffs (Length equal to your motor's height. You may also need a 0.5mm spacer for LDO motors.)
+- 
 # Boards
 
 ## [VzHextrudortLow](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortLow "VzHextrudortLow") and [VzHextrudortPlus](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlus "VzHextrudortPlus")
