@@ -9,7 +9,7 @@ Also, use the correct hardware:
 - M3x6 screw (Hextrudort-Low)
 - M3x16 screw (Hextrudort-Plus)
 - M3 standoffs (Length equal to your motor's height. You may also need a 0.5mm spacer for LDO motors.)
-- 
+  
 # Boards
 
 ## [VzHextrudortLow](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortLow "VzHextrudortLow") and [VzHextrudortPlus](https://github.com/Rexsell/Vz-Hextrudort-Boards/tree/main/VzHextrudortPlus "VzHextrudortPlus")
